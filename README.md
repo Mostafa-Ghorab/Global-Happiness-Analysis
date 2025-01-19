@@ -47,6 +47,3 @@ The path to improving happiness is rooted in sustainable economic growth, strong
 The analysis includes several visualizations that help to make sense of the relationships between different happiness factors. These insights are available through **Jupyter Notebooks**, which provide an interactive and detailed look at the data.
 
 
----
-
-**By focusing on these key drivers, business and governmental leaders can create actionable strategies to improve global happiness and societal well-being.**
